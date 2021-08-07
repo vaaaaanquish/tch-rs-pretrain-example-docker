@@ -1,0 +1,9 @@
+[package]
+name = "ann_example"
+version = "0.1.0"
+authors = ["vaaaaanquish <6syun9@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+tch = "0.5.0"
+anyhow = "1"
